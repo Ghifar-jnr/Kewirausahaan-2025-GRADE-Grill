@@ -45,7 +45,7 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan form
 - **Status Merek:** AMAN
 - **Bentuk Badan Usaha:** CV
 
-📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](Link_Google_Docs_Legal)**
+📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](https://docs.google.com/document/d/1y5vqsIKUD_J_20rXwiL4DRr9yWOTRVBqg0xgVnylC6E/edit?usp=sharing)**
 
 ---
 
