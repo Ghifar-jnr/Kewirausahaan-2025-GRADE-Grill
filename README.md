@@ -14,7 +14,7 @@
 ---
 
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
-Kami telah melakukan validasi masalah di wilayah **[Lokasi]** dengan melibatkan **[Jumlah]** responden.
+Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** dengan melibatkan **6** responden.
 
 * **Permasalahan Utama:** [Deskripsi singkat masalah]
 * **Solusi yang Ditawarkan:** [Deskripsi singkat solusi]
