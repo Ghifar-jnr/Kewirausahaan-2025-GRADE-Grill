@@ -6,12 +6,12 @@
 
 ## 👥 Tim Pengembang
 
-- **Ghifar Januar Abdillah** (4523210051) - [Peran: CEO/Hustler]
-- **Aida Fitria** (4523210007) - [Peran: CTO/Hacker]
-- **Diva Cahya Hakim** (4523210037) - [Peran: CMO/Hipster]
-- **Dwi Aura Ningrum** (4523210038) - [Peran: CMO/Hipster]
-- **Eka Lidya Rahmadini** (4523210039) - [Peran: CMO/Hipster]
-- **M. Rizky Subagia Ramadhan** (4523210061) - [Peran: CMO/Hipster]
+- **M. Rizky Subagia Ramadhan** (4523210061) -
+- **Ghifar Januar Abdillah** (4523210051) -
+- **Aida Fitria** (4523210007) -
+- **Diva Cahya Hakim** (4523210037) -
+- **Dwi Aura Ningrum** (4523210038) -
+- **Eka Lidya Rahmadini** (4523210039) -
 
 ---
 
