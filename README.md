@@ -16,7 +16,7 @@
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
 Kami telah melakukan validasi masalah di wilayah **Universitas Pancasila** dengan melibatkan **6** responden.
 
-* **Permasalahan Utama:** [Deskripsi singkat masalah]
+* **Permasalahan Utama:** Sebagian besar konsumen belum memiliki alat grill pribadi karena harganya relatif mahal, sehingga kegiatan BBQ menjadi kurang terjangkau. Selain itu, persiapan BBQ dinilai tidak praktis karena memerlukan waktu dan tenaga untuk menyiapkan alat, membersihkan grill, serta memarinasi daging, yang pada akhirnya menurunkan minat konsumen. Konsumen juga mengalami kesulitan menemukan layanan terpadu yang menyediakan penyewaan alat grill sekaligus daging yang sudah dimarinasi dan siap bakar dalam satu paket. Di sisi lain, membeli alat grill dianggap kurang efisien secara biaya, terutama bagi konsumen yang hanya melakukan BBQ sesekali, seperti mahasiswa dan anak kos.
 * **Solusi yang Ditawarkan:** [Deskripsi singkat solusi]
 
 📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](Link_Google_Docs)**
