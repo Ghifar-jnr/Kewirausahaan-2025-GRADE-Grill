@@ -32,9 +32,10 @@ _(Dokumen ini memuat transkrip wawancara, foto kegiatan, dan analisis validasi)_
 
 - **Modal Awal:** Rp 5.000.000
 - **Break Even Point (BEP):** Sewa Alat = 18 unit/bulan | Paket BBQ = 21 unit/bulan
-- **Proyeksi Profit (Bulan ke-3):** Rp [Nominal]
+- **Proyeksi Profit (Bulan ke-3):** Rp 7.517.500 (Total Laba Bersih 3 Bulan)
 
-📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](Link_Google_Sheets)**
+📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](https://docs.google.com/spreadsheets/d/1qFG4Xnq6Am7rUw7NLLQMubtmtPvkW9utWe99A2Y0WGc/edit?usp=sharing)**
+<br>
 _(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan formula aktif)_
 
 ---
