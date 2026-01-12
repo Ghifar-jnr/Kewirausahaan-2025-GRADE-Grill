@@ -53,4 +53,4 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan form
 
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
 
-[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](LINK_VIDEO_YOUTUBE)
+[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)]((https://youtu.be/QKEidz71Q2A))
