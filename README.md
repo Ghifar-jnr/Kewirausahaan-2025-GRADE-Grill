@@ -6,12 +6,12 @@
 
 ## 👥 Tim Pengembang
 
-- **M. Rizky Subagia Ramadhan** (4523210061) -
-- **Ghifar Januar Abdillah** (4523210051) -
-- **Aida Fitria** (4523210007) -
-- **Diva Cahya Hakim** (4523210037) -
-- **Dwi Aura Ningrum** (4523210038) -
-- **Eka Lidya Rahmadini** (4523210039) -
+- **M. Rizky Subagia Ramadhan** (4523210061) - Direktur Operasional/Sekutu Aktif
+- **Ghifar Januar Abdillah** (4523210051) - Direktur Keuangan & Administrasi/Sekutu Aktif
+- **Diva Cahya Hakim** (4523210037) - Direktur Pemasaran/Sekutu Aktif
+- **Aida Fitria** (4523210007) - Investor/Sekutu Pasif
+- **Dwi Aura Ningrum** (4523210038) - Investor/Sekutu Pasif
+- **Eka Lidya Rahmadini** (4523210039) - Investor/Sekutu Pasif
 
 ---
 
